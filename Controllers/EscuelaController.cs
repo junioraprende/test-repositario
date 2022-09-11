@@ -11,7 +11,7 @@ namespace HolaMundoMVC
             escuela.EscuelaId = Guid.NewGuid().ToString();
             escuela.Nombre = "Platzi School";
 
-
+            ViewBag.CosasDinamicas = "La monga";
 
             return View(escuela);
             //c# ya sabe por convencion que me interesa regresar la vista de Index

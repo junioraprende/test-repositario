@@ -16336,6 +16336,11 @@
       "FilePath": "c:\\Users\\Junior\\Desktop\\Curso MVC\\HolaMundoMVC\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Junior\\Desktop\\Curso MVC\\HolaMundoMVC\\Views\\Shared\\_Simple.cshtml",
+      "TargetPath": "Views\\Shared\\_Simple.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
