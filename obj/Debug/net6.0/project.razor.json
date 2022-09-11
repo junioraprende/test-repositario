@@ -16318,6 +16318,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Junior\\Desktop\\Curso MVC\\HolaMundoMVC\\Views\\Escuela\\Index.cshtml",
+      "TargetPath": "Views\\Escuela\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Junior\\Desktop\\Curso MVC\\HolaMundoMVC\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
