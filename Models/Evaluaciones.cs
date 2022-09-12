@@ -1,8 +1,8 @@
 using System;
 
 namespace HolaMundoMVC.Models;
-{
-    public class Evaluaciones
+
+public class Evaluaciones
 {
     public string UniqueId { get; private set; }
     public string Nombre { get; set; }
@@ -13,5 +13,4 @@ namespace HolaMundoMVC.Models;
     public float Nota { get; set; }
 
     public Evaluaciones() => UniqueId = Guid.NewGuid().ToString();
-}
 }

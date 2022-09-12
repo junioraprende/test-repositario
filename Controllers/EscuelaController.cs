@@ -7,9 +7,14 @@ namespace HolaMundoMVC
         public IActionResult Index()
         {
             var escuela = new Escuela();
-            escuela.AñoFundación = 1995;
-            escuela.EscuelaId = Guid.NewGuid().ToString();
+            escuela.AñoDeCreación = 1995;
+            escuela.UniqueId = Guid.NewGuid().ToString();
             escuela.Nombre = "Platzi School";
+            escuela.TipoEscuela = TiposEscuela.Secundaria;//ESTA ES UNA ENUMERACION
+            escuela.Dirección = "Calle 5, Ave 4, Bogotá, Bogotá.";
+            escuela.Pais = "Colombia";
+            escuela.Ciudad = "Bogotá";
+
 
             ViewBag.CosasDinamicas = "La monga";
 

@@ -3,8 +3,8 @@ using System.Collections.Generic;
 
 
 namespace HolaMundoMVC.Models;
-{
-    public class Curso : ObjetoEscuelaBase
+
+public class Curso : ObjetoEscuelaBase
 {
     public TiposJornada Jornada { get; set; }
     public List<Asignatura> Asignaturas { get; set; }
@@ -12,5 +12,4 @@ namespace HolaMundoMVC.Models;
 
     public string Dirección { get; set; }
 
-}
 }

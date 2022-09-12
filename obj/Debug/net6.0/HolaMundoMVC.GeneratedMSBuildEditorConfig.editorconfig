@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Junior\Desktop\Curso MVC\HolaMundoMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Asignatura/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Asignatura/MultiAsignatura.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYVxNdWx0aUFzaWduYXR1cmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Escuela/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjdWVsYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -25,6 +33,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Shared/AsignaturaSimple.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFzaWduYXR1cmFTaW1wbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Shared/Error.cshtml]

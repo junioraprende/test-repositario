@@ -1,9 +1,8 @@
 using System;
 
 namespace HolaMundoMVC.Models;
-{
-    public class Asignatura:ObjetoEscuelaBase
-    {
 
-    }
+public class Asignatura : ObjetoEscuelaBase
+{
+
 }

@@ -1,8 +1,8 @@
 using System;
 
 namespace HolaMundoMVC.Models;
-{
-    public class Evaluación : ObjetoEscuelaBase
+
+public class Evaluación : ObjetoEscuelaBase
 {
     public Alumno Alumno { get; set; }
     public Asignatura Asignatura { get; set; }
@@ -13,5 +13,4 @@ namespace HolaMundoMVC.Models;
     {
         return $"{Nota}, {Alumno.Nombre}, {Asignatura.Nombre}";
     }
-}
 }

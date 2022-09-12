@@ -1,7 +1,6 @@
 namespace HolaMundoMVC.Models;
-{
-    public enum TiposJornada
+
+public enum TiposJornada
 {
     Mañana, Tarde, Noche
-}
 }

@@ -3,8 +3,8 @@ using System.Collections.Generic;
 
 
 namespace HolaMundoMVC.Models;
-{
-    public class Escuela : ObjetoEscuelaBase
+
+public class Escuela : ObjetoEscuelaBase
 {
     public int AñoDeCreación { get; set; }
 
@@ -13,9 +13,13 @@ namespace HolaMundoMVC.Models;
 
     public string Dirección { get; set; }
 
-    public TiposEscuela TipoEscuela { get; set; }
+    public TiposEscuela TipoEscuela { get; set; } //ES UNA ENUMERACION
     public List<Curso> Cursos { get; set; }
 
+    public Escuela()
+    {
+
+    }
     public Escuela(string nombre, int año) => (Nombre, AñoDeCreación) = (nombre, año);
 
     public Escuela(string nombre, int año,
@@ -34,4 +38,4 @@ namespace HolaMundoMVC.Models;
 
 
 }
-}
+
