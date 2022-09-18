@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HolaMundoMVC
 build_property.RootNamespace = HolaMundoMVC
-build_property.ProjectDir = C:\Users\Junior\Desktop\Curso MVC\HolaMundoMVC\
+build_property.ProjectDir = c:\Users\Junior\Desktop\Curso MVC\HolaMundoMVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Junior\Desktop\Curso MVC\HolaMundoMVC
+build_property.MSBuildProjectDirectory = c:\Users\Junior\Desktop\Curso MVC\HolaMundoMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Asignatura/Index.cshtml]
+[c:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Asignatura/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Asignatura/MultiAsignatura.cshtml]
+[c:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Asignatura/MultiAsignatura.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYVxNdWx0aUFzaWduYXR1cmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Escuela/Index.cshtml]
+[c:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Escuela/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjdWVsYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Home/Index.cshtml]
+[c:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Home/Privacy.cshtml]
+[c:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Shared/AsignaturaSimple.cshtml]
+[c:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Shared/AsignaturaSimple.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFzaWduYXR1cmFTaW1wbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Shared/Error.cshtml]
+[c:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Shared/_Simple.cshtml]
+[c:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Shared/_Simple.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaW1wbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/_ViewImports.cshtml]
+[c:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/_ViewStart.cshtml]
+[c:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Shared/_Layout.cshtml]
+[c:/Users/Junior/Desktop/Curso MVC/HolaMundoMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-fo1c62idoh
