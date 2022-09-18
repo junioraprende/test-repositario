@@ -16338,6 +16338,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Junior\\Desktop\\Curso MVC\\HolaMundoMVC\\Views\\Shared\\ObjetoEscuelaSimple.cshtml",
+      "TargetPath": "Views\\Shared\\ObjetoEscuelaSimple.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Junior\\Desktop\\Curso MVC\\HolaMundoMVC\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -16350,11 +16355,6 @@
     {
       "FilePath": "c:\\Users\\Junior\\Desktop\\Curso MVC\\HolaMundoMVC\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Junior\\Desktop\\Curso MVC\\HolaMundoMVC\\Views\\Shared\\AsignaturaSimple.cshtml",
-      "TargetPath": "Views\\Shared\\AsignaturaSimple.cshtml",
       "FileKind": "mvc"
     }
   ],
