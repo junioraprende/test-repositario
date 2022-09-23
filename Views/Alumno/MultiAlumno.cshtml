@@ -11,25 +11,5 @@
 <strong>Vista parcial de MultiAlumnos</strong>
 
 
-<table class="table table-primary table-hover table-sm">
-    <thead>
-        <tr>
-            <th scope="col" class="text-center bg-primary">Nombre</th>
-            <th scope="col" class="text-center bg-warning">Id</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var alumno in Model)
-        {
-            @* <partial name="ObjetoEscuelaSimple" model="alumno" /> *@
-            @* //?el partial no funciona dentro de un codigo html por eso se llama diferente *@
-            <tr>
-                <td class="text-center">@alumno.Nombre</td>
-                <td class="text-center">@alumno.UniqueId</td>
-            </tr>
-        }
-
-    </tbody>
-</table>
-
+<partial name="ListaObjetoEscuela"></partial>
 <p><strong>Fecha: @ViewBag.Fecha </strong> </p>
